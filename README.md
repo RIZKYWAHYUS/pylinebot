@@ -15,3 +15,12 @@ Opensource code untuk membuat Line Bot menggunakan bahasa python dan memanfaatka
 10. Copy URL endpoint API Gateway punyanya Lambda Function 
 11. Paste URL adi ke isian URL Webhook di Line Developer
 12. Selesai. Bertemanlah dengan Bot Line mu !
+
+
+
+
+### Sumber Belajar dan Inspirasi :
+https://ubunifu.co/aws/line-bot-aws-lambda-python 
+https://github.com/c-bata/chalice-linebot
+https://www.isc.upenn.edu/accessing-mysql-databases-aws-python-lambda-function
+https://blog.skbali.com/2018/11/aws-lambda-layer-example-in-python/
